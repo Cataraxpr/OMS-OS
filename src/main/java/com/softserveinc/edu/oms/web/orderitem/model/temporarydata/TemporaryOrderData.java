@@ -1,8 +1,4 @@
-//
-// OrderTemporaryData
-//
-// 29 ρεπο. 2011
-//
+
 package com.softserveinc.edu.oms.web.orderitem.model.temporarydata;
 
 import java.util.ArrayList;
