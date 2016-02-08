@@ -171,6 +171,7 @@
 				<version>${maven.surefire.plugin.version}</version>
 				<configuration>
 					<systemPropertyVariables>
+					<skipTests>true</skipTests>
 						<surefire.reports.directory>
 							${testng.reports.directory}
 						</surefire.reports.directory>
